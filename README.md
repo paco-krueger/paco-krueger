@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-
+<p allign="center">
+  <img src="https://img.shields.io/badge/Go-7815CB?style=for-the-badge&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-7815CB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-7815CB?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Paco_Krueger_6376-7815CB?style=for-the-badge&logo=discord&logoColor=white">
+  </p>
   
 <p allign="center">
     <a href="https://twitter.com/paco_krueger"> <img src="https://img.shields.io/twitter/follow/Andromeda_IO?label=paco_krueger&logoColor=purple&style=social">
-  </p>
-
-<p allign="center">
-
-  <a href="https://twitter.com/Andromeda_IO"> <img src="https://img.shields.io/twitter/follow/Andromeda_IO?label=Andromeda_IO&logoColor=purple&style=social">
+    <a href="https://twitter.com/Andromeda_IO"> <img src="https://img.shields.io/twitter/follow/Andromeda_IO?label=Andromeda_IO&logoColor=purple&style=social">
 </p>
 
 <!--
