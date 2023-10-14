@@ -5,6 +5,9 @@
 <img src="https://img.shields.io/badge/GoLang-7815CB?style=for-the-badge&logo=go&logoColor=white">
 <img src="https://img.shields.io/badge/Python-7815CB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-7815CB?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/ReactJS-7815CB?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/VueJS-7815CB?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCss-7815CB?style=for-the-badge&logo=mongodb&logoColor=white">
   
 # My Socials
 
