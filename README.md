@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/Python-7815CB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-7815CB?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/React-7815CB?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/VueJS-7815CB?style=for-the-badge&logo=vue&logoColor=white">
-<img src="https://img.shields.io/badge/TailwindCss-7815CB?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/TailWind-7815CB?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
   
 # My Socials
